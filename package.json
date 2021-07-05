@@ -6,6 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "export": "next export",
+    "export-gh": "next export -o docs",
     "start": "next start"
   },
   "dependencies": {
